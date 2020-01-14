@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0d099458-8905-4fb4-a9ce-09df39e41f44" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1TBk5KcNsXLjrBFtzueeFhBfTSW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/aflevering3/bag" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="uge9.Skak" />
+      <recent name="uge9.zoo" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\OneDrive - Roskilde Tekniske Skole\Uni\02101 Indledende Programmering\IJ\Uge opgaver\src\aflevering3\bag" />
+      <recent name="C:\Users\User\IdeaProjects\Uge opgaver\src\uge10\ArrayListX" />
+      <recent name="C:\Users\User\IdeaProjects\Uge opgaver\src\uge9\zoo" />
+      <recent name="C:\Users\User\IdeaProjects\Uge opgaver\src\uge9" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="uge11" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\OneDrive - Roskilde Tekniske Skole\Uni\02101 Indledende Programmering\IJ\Uge opgaver\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.scrolltest">
+    <configuration name="Bag_test_visible_00" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aflevering3.bag.Bag_test_visible_00" />
+      <module name="Uge opgaver" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aflevering3.bag.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="uge7.PTest01" />
+      <module name="Uge opgaver" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="uge7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Prøve.Test" />
+      <module name="Uge opgaver" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Prøve.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aflevering3.bag.Test04" />
+      <module name="Uge opgaver" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aflevering3.bag.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="scrolltest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="scrolltest" />
+      <module name="Uge opgaver" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.scrolltest" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Test04" />
+        <item itemvalue="Application.Bag_test_visible_00" />
+        <item itemvalue="Application.PTest01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d099458-8905-4fb4-a9ce-09df39e41f44" name="Default Changelist" comment="" />
+      <created>1572940691813</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572940691813</updated>
+      <workItem from="1572940696675" duration="1572000" />
+      <workItem from="1572942329578" duration="1774000" />
+      <workItem from="1572944452326" duration="6267000" />
+      <workItem from="1572963765790" duration="1996000" />
+      <workItem from="1573500723894" duration="1364000" />
+      <workItem from="1573544069061" duration="12158000" />
+      <workItem from="1573568023081" duration="104000" />
+      <workItem from="1573568546304" duration="165000" />
+      <workItem from="1573568767848" duration="1191000" />
+      <workItem from="1573570045457" duration="129000" />
+      <workItem from="1573635520636" duration="307000" />
+      <workItem from="1573733249817" duration="1181000" />
+      <workItem from="1573735315664" duration="2309000" />
+      <workItem from="1574147044896" duration="143000" />
+      <workItem from="1574147231315" duration="23278000" />
+      <workItem from="1574612596462" duration="54000" />
+      <workItem from="1574612665759" duration="6514000" />
+      <workItem from="1576160433913" duration="5117000" />
+      <workItem from="1576166851552" duration="14761000" />
+      <workItem from="1578471621781" duration="194000" />
+      <workItem from="1578471978612" duration="122000" />
+      <workItem from="1578472157888" duration="376000" />
+      <workItem from="1578472676521" duration="240000" />
+      <workItem from="1578918726906" duration="215000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1877" height="147" key="GridCell.Tab.0.bottom" timestamp="1576193808856">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="147" key="GridCell.Tab.0.bottom/0.0.1920.1050/-1920.0.1920.1050/1920.299.1680.1020@0.0.1920.1050" timestamp="1576193808856" />
+    <state width="1877" height="147" key="GridCell.Tab.0.center" timestamp="1576193808855">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="147" key="GridCell.Tab.0.center/0.0.1920.1050/-1920.0.1920.1050/1920.299.1680.1020@0.0.1920.1050" timestamp="1576193808855" />
+    <state width="1877" height="147" key="GridCell.Tab.0.left" timestamp="1576193808855">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="147" key="GridCell.Tab.0.left/0.0.1920.1050/-1920.0.1920.1050/1920.299.1680.1020@0.0.1920.1050" timestamp="1576193808855" />
+    <state width="1877" height="147" key="GridCell.Tab.0.right" timestamp="1576193808856">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="147" key="GridCell.Tab.0.right/0.0.1920.1050/-1920.0.1920.1050/1920.299.1680.1020@0.0.1920.1050" timestamp="1576193808856" />
+    <state width="1877" height="147" key="GridCell.Tab.1.bottom" timestamp="1576193808856">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="147" key="GridCell.Tab.1.bottom/0.0.1920.1050/-1920.0.1920.1050/1920.299.1680.1020@0.0.1920.1050" timestamp="1576193808856" />
+    <state width="1877" height="147" key="GridCell.Tab.1.center" timestamp="1576193808856">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="147" key="GridCell.Tab.1.center/0.0.1920.1050/-1920.0.1920.1050/1920.299.1680.1020@0.0.1920.1050" timestamp="1576193808856" />
+    <state width="1877" height="147" key="GridCell.Tab.1.left" timestamp="1576193808856">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="147" key="GridCell.Tab.1.left/0.0.1920.1050/-1920.0.1920.1050/1920.299.1680.1020@0.0.1920.1050" timestamp="1576193808856" />
+    <state width="1877" height="147" key="GridCell.Tab.1.right" timestamp="1576193808856">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="147" key="GridCell.Tab.1.right/0.0.1920.1050/-1920.0.1920.1050/1920.299.1680.1020@0.0.1920.1050" timestamp="1576193808856" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/uge10/dato/Dato.java</url>
+          <line>24</line>
+          <properties class="uge10.dato.Dato" method="toString">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
