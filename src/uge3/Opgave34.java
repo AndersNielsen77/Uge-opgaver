@@ -16,5 +16,4 @@ public class Opgave34 {
 		}
 		return i;
 	}
-	
 }

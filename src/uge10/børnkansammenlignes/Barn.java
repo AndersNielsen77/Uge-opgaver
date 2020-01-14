@@ -25,7 +25,6 @@ public class Barn implements Comparable < Barn > {
         }
 
     }
-
     public String toString() {
         return navn + " born " + dag + "/" + måned + " " + år;
     }

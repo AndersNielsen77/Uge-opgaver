@@ -10,19 +10,19 @@ public class opgave41 {
 	//int inputgrade = console.nextInt();
 	//System.out.println(converted13to7);
         try {
-            System.out.println(convert13to7(console.nextInt()));
+            System.out.println("Din nye karakter: "+convert13to7(console.nextInt()));
         } catch (IllegalArgumentException e) {
             System.out.println("IllegalArgumentException");
         }
     }
 
 	public static int convert13to7(int grade) {
-		if (grade >= 14 || grade < 0) {
+		if (grade > 13 || grade < 0) {
 			throw new IllegalArgumentException();
 
 		}	    
 		int GradeConverter = -1;
-		if (grade <= 13 ) {
+		if (grade == 13 ) {
 			GradeConverter = 12;
 		} else if (grade == 11) {
 			GradeConverter = 12;
@@ -31,7 +31,7 @@ public class opgave41 {
 		} else if (grade == 9 || grade == 8) {
 			GradeConverter = 7;
 		} else if (grade == 7) {
-			GradeConverter = 4;			
+			GradeConverter = 4;
 		} else if (grade == 6) {
 			GradeConverter = 02;
 		} else if (grade == 5 || grade == 03) {
@@ -39,7 +39,8 @@ public class opgave41 {
 		} else if (grade == 00) {
 			GradeConverter = -3;
 		}
-		System.out.println("Gamle karakter " + grade);
+		System.out.println("Gamle karakter: " + grade);
 		return GradeConverter;
 	}
 }
+
